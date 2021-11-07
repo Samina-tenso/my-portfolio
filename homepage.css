@@ -35,6 +35,11 @@ span{
     text-transform: initial;
     font-weight:lighter;
 }
+ #img-text{
+     font-family:'Roboto', sans-serif;
+     writing-mode: vertical-rl;
+     text-orientation: sideways;
+ }
 .sweden{
     font-weight: lighter;
 }

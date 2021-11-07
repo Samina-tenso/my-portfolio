@@ -1,0 +1,25 @@
+
+
+h1{
+    font-family:'Roboto', sans-serif;
+    font-size: 4rem;
+    text-transform: uppercase;
+    line-height:4rem ;
+}
+h2{
+      font-family:'Roboto', sans-serif;
+      font-size: 3rem; 
+      text-transform: uppercase;
+      
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;;
+}
+
+
+
+
+p{
+    font-family:'Roboto', sans-serif;
+}

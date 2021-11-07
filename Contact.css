@@ -32,54 +32,6 @@ margin-right: 10vw;
     
 }
 
-#write{
-margin-left: 4vw; 
-   
-}
-
-input{
-   
- border: none;   
- background-color: #D0B9CF;
- font-size: 1.5rem;
- border-bottom: solid black 2px;
- margin: 1vh;
- align-items: left;
- margin-left:0;
- 
-
-}
-input:focus{
- outline: none; 
-
-  
-
-
-}
-
-
-textarea {
-    
-   font-size: 1.5rem; 
-   font-family: 'Roboto', sans-serif;
-   margin-top:1vh; 
-   background-color: #D0B9CF;
-   border: black 2px solid;
-   width: 70vmin;
-
-   
-
-}
-textarea:focus{
- outline: none;   
- 
-
-
-}
-::placeholder{
-    color: black;
-    opacity: 1;
-}
 #currently > h3{
     padding-top:1vh;
  border-bottom: solid black 2px; 

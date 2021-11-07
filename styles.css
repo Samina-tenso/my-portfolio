@@ -4,24 +4,6 @@ html, body{
 }
 
 
-#nav{
-    margin-bottom: 4vh;
-}
-
-#nav> ul{
-    display: flex;
-    
- 
-}
-  #nav >ul >li{
-      display:flex;
-     
-text-transform: uppercase;
-padding-left: 2rem;
-       
-  }
-
-
 ul{
     
     
@@ -31,34 +13,6 @@ ul{
        font-family:'Roboto', sans-serif;
 }
 
-
-h1{
-    font-family:'Roboto', sans-serif;
-    font-size: 4rem;
-    text-transform: uppercase;
-    line-height:4rem ;
-}
-h2{
-      font-family:'Roboto', sans-serif;
-      font-size: 3rem; 
-      text-transform: uppercase;
-      
-}
-
-h3{
-    font-family: 'Roboto', sans-serif;;
-}
-
- #img-text{
-     font-family:'Roboto', sans-serif;
-     writing-mode: vertical-rl;
-     text-orientation: sideways;
- }
-
-
-p{
-    font-family:'Roboto', sans-serif;
-}
 a{
     color: black;
     text-decoration-line: none;

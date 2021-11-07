@@ -1,0 +1,18 @@
+
+#nav{
+    margin-bottom: 4vh;
+}
+
+#nav> ul{
+    display: flex;
+    
+ 
+}
+  #nav >ul >li{
+      display:flex;
+     
+text-transform: uppercase;
+padding-left: 2rem;
+       
+  }
+
