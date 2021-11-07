@@ -59,8 +59,12 @@ h3{
 p{
     font-family:'Roboto', sans-serif;
 }
-a:visited{
-    text-decoration:none; 
-    color:white;
+a{
+    color: black;
+    text-decoration-line: none;
 
+}
+
+a:hover{
+color: white;
 }
