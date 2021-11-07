@@ -43,6 +43,11 @@ span{
     border-top: solid black 2px; 
      padding-top:1vh;
 }
+#img> img{
+    height: 400px; 
+    width:400px;
+    border-top-left-radius: 20%;
+}
 
 @media screen and (max-width: 600px){
 

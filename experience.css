@@ -1,5 +1,34 @@
 
+body{
+    background: black;
+}
+#container{
+ 
+  color: white;
 
-.company{
-    color:firebrick;
+}
+
+
+#ex-list>ul{
+     display:flex; 
+    flex-direction: row;
+   
+}
+#ex-list>li {
+border-bottom: solid white 2px; 
+
+}
+#ex-list > .company, .role, .date{
+padding-left: 4rem;  
+}
+
+#nav > a:hover{
+    color: white;
+}
+a{
+    color: white;
+    
+}
+a:hover{
+    color:#BBD2C3;
 }
