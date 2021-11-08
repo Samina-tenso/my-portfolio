@@ -1,15 +1,15 @@
 
 #write{
-margin-left: 4vw; 
-   
+margin-left: 5vw; 
+
 }
 
 input{
-   
+
  border: none;   
  background-color: #D0B9CF;
  font-size: 1.5rem;
- border-bottom: solid black 2px;
+ border-bottom: solid #2C2A2A 2px;
  margin: 1vh;
  align-items: left;
  margin-left:0;
@@ -31,8 +31,9 @@ textarea {
    font-family: 'Roboto', sans-serif;
    margin-top:1vh; 
    background-color: #D0B9CF;
-   border: black 2px solid;
-   width: 70vmin;
+   border: #2C2A2A 2px solid;
+   width: 40vmin;
+   margin-right: 5vw;
 
    
 
@@ -44,6 +45,11 @@ textarea:focus{
 
 }
 ::placeholder{
-    color: black;
+    color: #2C2A2A;
     opacity: 1;
+}
+@media  screen and (max-width: 600px){
+    textarea{
+        width:80vmin;
+    }
 }
