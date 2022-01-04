@@ -7,8 +7,7 @@
     display:grid; 
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
-
-
+padding-top: 50px;
 }
 
 #work{grid-column:1/2;
