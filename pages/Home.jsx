@@ -10,7 +10,7 @@ function Home() {
 
             <div className='ml-6 mr-8 sm:ml-20 mt-10 '>
                 <h1 className='font-serif text-red text-5xl mb-10 mt-4 text-center sm:text-left sm:text-6xl  sm:mt-8 sm:mb-20 md:text-7xl'> Hello, I'm Samina Dahlberg</h1>
-                <h4 className='font-sans text-center text-red text-sm sm:text-left md:pr-60' > I am a frontend developer with an interest in building engaging and intuitive products </h4>
+                <h4 className='font-sans text-center text-red text-sm sm:text-left md:pr-46' > I am a frontend developer with an interest in building engaging and intuitive products </h4>
                 <h3 className="mt-10 mb-4 text-red text-center sm:text-left" > I work mostly with:</h3>
                 <ul className='flex flex-row  justify-center font-light text-red  space-x-3 flex-wrap sm:text-left sm:place-content-start sm:mb-20 sm:space-x-6 '>
                     <li> React</li>
