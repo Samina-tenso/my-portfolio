@@ -23,10 +23,10 @@ function Home() {
                 <div>
                     <Image src={myProfile}
                         alt="me"
-                        width="250px"
-                        height="320px"
+                        width={250}
+                        height={320}
                         layout="fixed"
-                        className='rounded-full '
+                        className='rounded-full'
                         sizes="(max-width:768px) 10vw"
                     />
                 </div>
