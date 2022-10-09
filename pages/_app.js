@@ -5,15 +5,17 @@ import Projects from './Projects'
 import Contact from './Contact'
 import About from './About'
 
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
       <Nav />
       <Home />
       <Projects />
+
       <About />
       <Contact />
-      <Component {...pageProps} />
+
     </>
   )
 

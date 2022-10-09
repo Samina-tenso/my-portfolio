@@ -5,7 +5,7 @@ import TickTackToe from '../public/TickTackToe.png'
 //project links
 export const projects = [
     {
-        projectName: 'tic-tac-toe',
+        projectName: 'Tic-Tac-Toe',
         path: 'https://samina-tenso.github.io/Tic-tac-toe/',
         tags: [
             'React',
@@ -16,7 +16,7 @@ export const projects = [
         image: TickTackToe,
     },
     {
-        projectName: 'drum-kit',
+        projectName: 'Drum-Kit',
         path: 'https://samina-tenso.github.io/drumKit/',
         tags: ['Javascript',
             'HTML',

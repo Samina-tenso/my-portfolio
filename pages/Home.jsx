@@ -19,18 +19,19 @@ function Home() {
                     <li className='border-2 p-3 rounded-full bg-red '> HTML</li>
                 </ul>
             </div>
-            <div className='grid grid-cols-1 mt-9  m-auto  sm:mr-25 flex sm:grid-cols-2 sm:mt-20 sm:flex md:ml-20'>
+            <div className='grid grid-cols-1 mt-9  m-auto  sm:mr-20 sm:grid-cols-2 sm:mt-20  md:ml-20'>
                 <div>
                     <Image src={myProfile}
                         alt="me"
-                        width={250}
-                        height={320}
-                        layout="fixed"
+                        width={320}
+                        height={420}
+                        layout="responsive"
                         className='rounded-full'
+
                     />
                 </div>
-                <div className=' m-auto sm:ml-10 sm:mt-20 sm:pr-20' >
-                    <div className='uppercase  mt-6 text-red sm:text-left sm:ml-10 '> check out my <br /> projects </div>
+                <div className=' m-auto sm:ml-8 sm:mt-20 sm:pr-20 ' >
+                    <div className='uppercase  mt-6 text-red sm:text-left sm:ml-8 '> check out my <br /> projects </div>
                     <Arrow />
                 </div>
 
