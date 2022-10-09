@@ -2,6 +2,8 @@ import '../styles/globals.css'
 import Home from './Home'
 import Nav from './Nav'
 import Projects from './Projects'
+import Contact from './Contact'
+import About from './About'
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -9,6 +11,8 @@ function MyApp({ Component, pageProps }) {
       <Nav />
       <Home />
       <Projects />
+      <About />
+      <Contact />
       <Component {...pageProps} />
     </>
   )
