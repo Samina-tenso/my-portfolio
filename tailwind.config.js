@@ -13,6 +13,7 @@ module.exports = {
     colors: {
       beige: '#F8EDE1',
       red: '#E2572C',
+      black: '#262626'
     },
 
     extend: {},

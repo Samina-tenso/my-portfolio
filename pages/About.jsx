@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
     return (
         <div className='bg-beige '>
-            <h1 className='font-serif text-center text-red text-8xl py-8  sm:text-left sm:text-6xl sm:ml-20 md:text-7xl'>About </h1></div>
+            <h1 className='font-serif text-center text-black text-6xl py-8  sm:text-left sm:text-6xl sm:ml-20 md:text-7xl'>About </h1></div>
     )
 }
 

@@ -100,7 +100,7 @@ Reset links to optimize for opt-in styling instead of opt-out.
 */
 
 a {
-  @apply text-red overline;
+  @apply text-black overline;
 }
 
 

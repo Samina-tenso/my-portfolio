@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 function Contact() {
     return (
-        <div id="contact" className='grid grid-cols-1 pb-4 text-beige bg-red sm:grid-cols-3 '>
+        <div id="contact" className='grid grid-cols-1 pb-4 text-beige bg-black sm:grid-cols-3 '>
             <h1 className='text-3xl text-center py-8 uppercase sm:ml-18'>Connnect with me</h1>
             <div className='m-auto'>
                 {connect.map(({ destination, path }, index) => {
