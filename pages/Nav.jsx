@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { links } from './Data'
+import { links } from './api/Data'
 
 
 function Nav() {

@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { projects } from './Data'
+import { projects } from './api/Data'
 
 function Projects() {
     return (

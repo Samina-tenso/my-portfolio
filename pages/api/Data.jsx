@@ -1,6 +1,6 @@
 import React from 'react'
-import DrumKit from '../public/DrumKit.png'
-import TickTackToe from '../public/TickTackToe.png'
+import DrumKit from '../../public/DrumKit.png'
+import TickTackToe from '../../public/TickTackToe.png'
 
 //project links
 export const projects = [
@@ -58,3 +58,4 @@ export const connect = [
         path: 'www.linkedin.com/in/samina-dahlberg-610722146'
     },
 ]
+

@@ -1,5 +1,5 @@
 import React from 'react'
-import { connect } from './Data'
+import { connect } from './api/Data'
 import Link from 'next/link'
 
 function Contact() {
