@@ -9,15 +9,13 @@ function Contact() {
             <div className='m-auto'>
                 {connect.map(({ destination, path }, index) => {
                     return (
-
-                        <ul className=' text-xl '>
+                        <ul key={index} className='text-xl' >
                             <Link href={path}>
                                 <a className="  hover:no-underline text-beige uppercase">
-                                    <li key={index}> {destination}</li>
+                                    <li > {destination}</li>
                                 </a>
                             </Link>
                         </ul>
-
                     )
                 })}
             </div>

@@ -12,14 +12,10 @@ function MyApp({ Component, pageProps }) {
       <Nav />
       <Home />
       <Projects />
-
       <About />
       <Contact />
-
     </>
   )
-
-
 }
 
 export default MyApp

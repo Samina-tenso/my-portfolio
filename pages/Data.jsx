@@ -11,7 +11,6 @@ export const projects = [
             'React',
             'Javascript',
             'Tailwind'
-
         ],
         image: TickTackToe,
     },
@@ -34,6 +33,7 @@ export const links = [
     {
         destination: 'Projects',
         path: '#projects'
+
     },
     {
         destination: 'About',
@@ -51,6 +51,7 @@ export const connect = [
     {
         destination: 'Github',
         path: 'https://github.com/Samina-tenso'
+
     },
     {
         destination: 'Linkedin',
